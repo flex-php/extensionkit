@@ -1,3 +1,3 @@
 # Flex Extension Kit
 
-`composer create-project -s dev flex-php/extensionkit`
+`composer create-project -s dev flex-php/flex-extension-kit`
